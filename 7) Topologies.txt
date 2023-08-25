@@ -1,0 +1,24 @@
+topology-> it is a system used to show how device are connected with each other.
+1) bus topology-> all divices are connected through the wire, and if some device is not working the all network not affected.
+
+2) star topology-> in this all devices are connected with any central device like router,hub,switch..if the central device not working all communication between devices is stoped.
+
+3) ring topology-> in this one device is connected with other two devices.
+
+4) mash topology-> in this every device connected with every device.so when any one device not working it not affect other devices and communication is also very fast, but it is very costly.
+
+*Encoding->converting data to signals.(convert data to garbeg valu like %^&&45)
+*Decoding->converting signals to data again.(convert garbeg value to data)
+
+
+
+
+
+
+
+
+
+
+
+
+

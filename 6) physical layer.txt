@@ -1,0 +1,3 @@
+phisycal layer-> it convert binary data(0,1) to signals, and send to another device through wired or wireless form.
+
+area networks,topologies and transmission mediam comes under physical layer.

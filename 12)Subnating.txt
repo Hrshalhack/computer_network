@@ -1,0 +1,41 @@
+subnating-> when we devide one network into two or mare networks or subnates thats called subnating.
+ the one side of nework(first subnate) not affect the second side of network(subnate).
+
+normally in internet->  network id + host id = IP adress
+when we devide our network in subnates-> network id + subnate id + host id = IP adress
+(the subnate id show that the device is from which subnet of network)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

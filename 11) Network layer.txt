@@ -1,0 +1,11 @@
+
+
+ip adresses-> this is a number that uniquely identify the device in network,two types ipv4 and ipv6.
+
+two types of ip adress private and public.(lan we use private ip )
+public ip is assigned by isp org. 
+
+network layer take the responsibility of traverse data between different networks.
+classify the ip in two parts (classful ip and classless ip)
+(there are 5 classes-> classA,classB,classC,classD,classE) (classE is reserved and not used publically)
+0 to 127 => this ip adresses present in classA

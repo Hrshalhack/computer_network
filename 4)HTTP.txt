@@ -1,0 +1,11 @@
+HTTP-> hyper text trasffer protocol (HTTP is an application layer protocol)
+(communication between client and server done with the help of http)
+(transporting information between a client (such as a web browser) and a web server(server contains data of website))
+(client request to server and server response to client)(it work on request response communication model)
+(HTTP gives users a way to interact with web resources such as HTML files by transmitting hypertext messages between clients and servers.)
+(without http , we can not communicate)
+(it used to exchange the information on internet)
+(we can trasffer hypertext and hypermidea (video,img etc))
+we use http/2 version now
+request->http://www.gfg.com
+response-> webpage coming from server

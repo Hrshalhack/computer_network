@@ -1,0 +1,21 @@
+
+
+
+
+
+
+
+*mac adress-> (physical adress), it is 48 bit number.(00:1B:44:11:3A:B7) (12*4=48)(it is hexadecimal)
+it is present in nic (network interface card) , nic present in our system. it is hard to change nic card. mac 
+address present in nic card.
+cheksum and crc are two algorithm that detect the errors.
+responsibilities of data linklayer->
+crc detect the error.
+Access control
+flow control-> data not lost during flow from one device to another. there are different limits of devices to sending and receiving the data. 
+
+
+
+
+
+

@@ -1,0 +1,12 @@
+imp Q.1) how does the internet works or how to data work flow or how two computer sharing data?
+Ans-> internet is a group of connected devices.
+(dns returns the ip adress)(ip changed in different networks)
+1. Application Layer
+	DNS resolution
+2. Transport Layer
+	Adds the port in the header
+	Establishes the connection
+3. Network Layer
+	Add the create header by adding IPs
+	It will check whether the source and dest IPs are in the same network or not. It wil check using the routing table (IP & SM = NID)
+	ARP protocol to find out the MAC of the gateway router.

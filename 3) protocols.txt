@@ -1,0 +1,5 @@
+FTP-> file trasffer protocol, dounload or upload file from server.(jb koi chij download ya upload krte hai)(for upload and download both(mobile and server) the devices should be online)
+SMTP->simple mail trasffer mail protocol, for sending the mail to server (it is not manditory to online receiver device (mobile)this time)
+POP->post office protocol, receiving mail from server
+(smtp and pop used togather to send and receive the mail,)
+(when user send mail the mail go to server with smtp(push), the server send the mail to end user with pop)

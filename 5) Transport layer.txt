@@ -1,0 +1,31 @@
+Transport layer-> 
+there are many processes(p1,p2,p3...) in computer (client) and server, the transport layer responsible for sending the data packets from client process(p1) to server process(p1).
+this thing called process to process delhivery.the transport layer responsible for process to process delhivery.
+data is divided into packets and each packate deliver independently.
+inorder delivery->computer send to the packets(1,2,3,4,5) to server, the packets goes independently so their order or sequence in disordered(2,4,1,3,5), when server receive the peckets, the server coerrect it in sequence(1,2,3,4,5), it is known as in order delhivery.
+(transport layer responsible for inorder delivery)
+(the 16bit number(port number) assign to each process that each process identify uniquely)
+socket=ip adress + port number
+process-=> message go application layer to transport layer, transport layer attached the header to message, and header + message called segment.it is known as incapsulation.
+port number-> it is used to identify each process uniquely,every process have their separete port.there are 65000 port numbers.port number are three types of port,
+1.reserved ports(well-known ports)->used for http,ftp,smtp..0 to 1023
+2.registered ports-> 1024-4915
+3.Dynamic ports-> 49152-65565 (this ports we are used for processes)
+
+Transport layer has two protocol->tcp and udp
+(quetion->which of the following protocol is layer4 protocol,ans->tcp and udp)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

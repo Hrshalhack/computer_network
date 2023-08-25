@@ -1,0 +1,8 @@
+OSI (Open Systems Interconnection) model is just blueprint how 2 system should be communicating
+it is a layered architecture about how data will travell from place to place
+it consists of 7 layers
+it is theoritical model or refference model not practical model.
+(tcp/ip model is practical model,it also communicating between two devices,it has 4 layers(Application,transport,network,network access layer))
+(every layer is independent of each other in both model)
+(osi trick- Aj fir se test nhi dena pdega)
+(tcp/ip model is less detailed and osi model is detailed)

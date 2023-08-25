@@ -1,0 +1,51 @@
+types of area network-> 
+
+1) PAN(personal area network) (distance is limited, wifi router)
+2) LAN (local area network) (buiding)
+3) MAN (metropolitan area network) (home to office)
+4) WAN (wide area network) (global)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

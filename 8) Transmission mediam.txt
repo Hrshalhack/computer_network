@@ -1,0 +1,38 @@
+transmission mode-> mode of communication between two devices.
+three types of transmission mode 
+simplex,duplex,full-duplex.
+
+1) simplex-> in this only one device can send the to another device.(one way communication)(ex.setalite,mouse,keyboard,radio)
+2) duplex or half duplex-> both devices communicating with each other but not simontaniously,means one device can send the data at the time.
+3)full duplex-> both devices are communicating sumontaniously.(ex.whatsaap,call)
+
+
+(note -> application and transport layers are software layer and network,datalink,physical layer are hardware layer)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 

@@ -1,0 +1,3 @@
+voice call vs internet
+in internet some packets are missed or dropped (but with ack, the packet fir se manga lete hai but these decrease the queality(whatsp call,live stream etc))
+but in voice call the storage is available so they charge for storage so no packet is missed

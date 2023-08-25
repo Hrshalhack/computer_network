@@ -1,0 +1,10 @@
+datagram->speed is high,but packate lost is happend,data go from one location to another with
+any path not dependend on one path.
+ps(packet switching)-> packate trasffer krne ko packet switching kehte hai.method of data transmission whereby the data is divided in packets
+Packet switched networks are connectionless networks.
+two types of packate swiching technique->
+1)Virtual Circuit Packet Switching:-> in this the packet go from one device to another with only one decided path.
+2)Datagram Packet Switching:-> in this the packate go from one device to another with different paths.
+
+cs(circuit switching)->Circuit switched networks are connection-oriented networks. Here, a dedicated route is established between the source and the
+ destination and the entire message is transferred through it.

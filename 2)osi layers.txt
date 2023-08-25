@@ -1,0 +1,6 @@
+(every layer have some protocols->it is set of rules)
+application layer-> user s/w interface. 
+session layer-> it take the resopsibility to start and end the session.
+presentation layer->it converting the data to binary or any formate or compreses the data or it encription the data
+  handle by presentation layer.
+transport layer-> 
